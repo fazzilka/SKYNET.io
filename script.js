@@ -1,6 +1,6 @@
 // Конфигурация API
 const OPENROUTER_API_KEY =
-  "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";
+  "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";
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
 // Доступные модели
